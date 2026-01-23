@@ -1,5 +1,6 @@
 {% set name = "GridDataFormats" %}
 {% set version = "1.1.0" %}
+{% set python_min = "3.11" %} 
 
 package:
   name: griddataformats
